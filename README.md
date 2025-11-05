@@ -2,9 +2,11 @@
 
 ## 📌 Purpose
 
-This repository provides a simple yet illustrative example of TCP communication between a client and a server written in Python. It is designed as an educational tool to help users understand the lifecycle of a TCP connection, including the connection setup, data exchange, and connection teardown.
+This repository provides a simple yet illustrative example of TCP communication between a client and a server written in C#. It is designed as an educational tool to help users understand the lifecycle of a TCP connection, including the connection setup, data exchange, and connection teardown.
 
 In addition to the source code, a pre-recorded `.pcap` (packet capture) file is included to allow for in-depth analysis of the TCP communication using tools like **Wireshark** or **tcpdump**.
+
+This is purely for educational purposes only!
 
 ---
 
